@@ -1,6 +1,6 @@
 {
   "name": "chfreq",
-  "version": "0.0.2",
+  "version": "release-test-2",
   "repo": "jb55/chfreq.c",
   "description": "Compute character frequency in a string",
   "keywords": ["char", "frequency"],
