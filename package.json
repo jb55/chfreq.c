@@ -1,10 +1,10 @@
 {
   "name": "chfreq",
-  "version": "release-test-2",
+  "version": "release-test-3",
   "repo": "jb55/chfreq.c",
   "description": "Compute character frequency in a string",
   "keywords": ["char", "frequency"],
   "license": "MIT",
-  "src": [ "chfreq.h", "chfreq.c" ],
-  "install": "make install"
+  "install": "make install",
+  "src": [ "chfreq.h", "chfreq.c" ]
 }
