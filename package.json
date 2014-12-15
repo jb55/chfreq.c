@@ -5,5 +5,6 @@
   "description": "Compute character frequency in a string",
   "keywords": ["char", "frequency"],
   "license": "MIT",
-  "src": [ "chfreq.h", "chfreq.c" ]
+  "src": [ "chfreq.h", "chfreq.c" ],
+  "install": "make install"
 }
